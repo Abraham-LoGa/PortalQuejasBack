@@ -1,2 +1,3 @@
 # PortalQuejas
-Desarrollo de Api Rest con Springboot para un portal de quejas
+## Backend
+Desarrollo de Api Rest con Django para un portal de quejas
